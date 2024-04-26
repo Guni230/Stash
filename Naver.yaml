@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,livecloud.akamaized.net
+  - DOMAIN-SUFFIX,livecloud-thumb.akamaized.net
